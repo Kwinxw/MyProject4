@@ -1,0 +1,11 @@
+﻿<Window x:Class="Project4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Главное окно" Height="200" Width="300">
+    <StackPanel Margin="20">
+        <Button Content="Задание 1" Click="OpenTask1" Margin="5"/>
+        <Button Content="Задание 2" Click="OpenTask2" Margin="5"/>
+        <Button Content="Задание 3" Click="OpenTask3" Margin="5"/>
+        <Button Content="Задание 4" Click="OpenTask4" Margin="5"/>
+    </StackPanel>
+</Window>

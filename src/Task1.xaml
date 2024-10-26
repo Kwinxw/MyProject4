@@ -1,0 +1,11 @@
+﻿<Window x:Class="Project4.Task1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Задание 1" Height="300" Width="400">
+    <StackPanel Margin="20">
+        <TextBox x:Name="InputA" Margin="5" Text="" GotFocus="InputA_GotFocus" LostFocus="InputA_LostFocus"/>
+        <TextBox x:Name="InputB" Margin="5" Text="" GotFocus="InputB_GotFocus" LostFocus="InputB_LostFocus"/>
+        <Button Content="Выполнить" Click="Calculate" Margin="5"/>
+        <TextBlock x:Name="ResultText" Margin="5"/>
+    </StackPanel>
+</Window>

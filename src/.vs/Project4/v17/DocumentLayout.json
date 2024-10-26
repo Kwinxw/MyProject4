@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|c:\\users\\vadim\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project 4\\project4\\task1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|solutionrelative:task1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|c:\\users\\vadim\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project 4\\project4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|c:\\users\\vadim\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project 4\\project4\\task4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|solutionrelative:task4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|c:\\users\\vadim\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project 4\\project4\\task4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|solutionrelative:task4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|c:\\users\\vadim\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project 4\\project4\\task3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|solutionrelative:task3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|c:\\users\\vadim\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project 4\\project4\\task3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|solutionrelative:task3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|c:\\users\\vadim\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project 4\\project4\\task2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|solutionrelative:task2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|c:\\users\\vadim\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project 4\\project4\\task2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|solutionrelative:task2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|c:\\users\\vadim\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project 4\\project4\\task1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|solutionrelative:task1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|c:\\users\\vadim\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project 4\\project4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C62E11-E179-43F1-9937-57BCF7F2B223}|Project4.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task2.xaml",
+              "DocumentMoniker": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\Task2.xaml",
+              "RelativeDocumentMoniker": "Task2.xaml",
+              "ToolTip": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\Task2.xaml",
+              "RelativeToolTip": "Task2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T13:45:10.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task3.xaml",
+              "DocumentMoniker": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\Task3.xaml",
+              "RelativeDocumentMoniker": "Task3.xaml",
+              "ToolTip": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\Task3.xaml",
+              "RelativeToolTip": "Task3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T13:47:12.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\Task2.xaml.cs",
+              "RelativeDocumentMoniker": "Task2.xaml.cs",
+              "ToolTip": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\Task2.xaml.cs",
+              "RelativeToolTip": "Task2.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T13:46:29.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\Task3.xaml.cs",
+              "RelativeDocumentMoniker": "Task3.xaml.cs",
+              "ToolTip": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\Task3.xaml.cs",
+              "RelativeToolTip": "Task3.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T13:48:04.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task4.xaml",
+              "DocumentMoniker": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\Task4.xaml",
+              "RelativeDocumentMoniker": "Task4.xaml",
+              "ToolTip": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\Task4.xaml",
+              "RelativeToolTip": "Task4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T13:49:35.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task4.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\Task4.xaml.cs",
+              "RelativeDocumentMoniker": "Task4.xaml.cs",
+              "ToolTip": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\Task4.xaml.cs",
+              "RelativeToolTip": "Task4.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T13:50:20.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T13:30:35.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\Task1.xaml.cs",
+              "RelativeDocumentMoniker": "Task1.xaml.cs",
+              "ToolTip": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\Task1.xaml.cs",
+              "RelativeToolTip": "Task1.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T13:42:51.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task1.xaml",
+              "DocumentMoniker": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\Task1.xaml",
+              "RelativeDocumentMoniker": "Task1.xaml",
+              "ToolTip": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\Task1.xaml",
+              "RelativeToolTip": "Task1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T13:38:52.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project 4\\Project4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T13:30:31.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
